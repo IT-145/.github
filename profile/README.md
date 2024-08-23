@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # IT 145 Projects
 Welcome to the IT 145 Projects organization. This repository showcases the various projects I developed during my IT 145 course at Southern New Hampshire University. Throughout this course, I gained a solid foundation in Java programming, focusing on essential programming concepts and industry-standard best practices.
 
