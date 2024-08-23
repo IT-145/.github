@@ -18,9 +18,9 @@ IT 145 is an introductory course that lays the groundwork for understanding and 
 # What You'll Find in This Organization
 This organization contains the following repositories:
 - Project One: Pet Boarding and Grooming Application
- - This project involved developing a Java class to manage pet boarding and grooming services. It focused on applying OOP principles like inheritance and encapsulation.
+  - This project involved developing a Java class to manage pet boarding and grooming services. It focused on applying OOP principles like inheritance and encapsulation.
 - Project Two: Grazioso Salvare Animal Tracking Application
- - This project expanded on the first by introducing more complex concepts like inheritance and polymorphism. The application manages tracking information for both dogs and monkeys used in search and rescue operations.
+  - This project expanded on the first by introducing more complex concepts like inheritance and polymorphism. The application manages tracking information for both dogs and monkeys used in search and rescue operations.
 
 # Reflection
 Through these projects, I developed a strong understanding of Java programming and object-oriented principles. The course projects challenged me to think critically and solve problems effectively, which has prepared me for more advanced programming courses and real-world software development scenarios.
